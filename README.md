@@ -1,2 +1,1 @@
-# siminov.github.io
-Siminov Framework Website
+© [2014-2016] Siminov Software Solution LLP. All Rights Reserved.
